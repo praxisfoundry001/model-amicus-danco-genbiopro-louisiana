@@ -1,0 +1,176 @@
+﻿MODEL BRIEF OF AMICUS CURIAE PRAXIS FOUNDRY
+IN SUPPORT OF APPLICANTS DANCO LABORATORIES, LLC, AND GENBIOPRO, INC.
+Danco Laboratories, LLC v. Louisiana, No. 25A1207
+GenBioPro, Inc. v. Louisiana, No. 25A1208
+Medication Abortion, Federalism, and Constitutional Continuity Across State and Federal Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Model Status Note
+This is a model brief. It has not been filed in any court. It is not legal advice. It is a public constitutional-structure artifact drafted in the form of an amicus brief.
+The brief is written as if submitted to the Supreme Court of the United States in support of Applicants Danco Laboratories, LLC, and GenBioPro, Inc., in their emergency applications concerning the May 1, 2026 order of the United States Court of Appeals for the Fifth Circuit. As of this model brief’s drafting, the Supreme Court has administratively stayed that order until 5 p.m. EDT on May 11, 2026, while responses are due by 5 p.m. EDT on May 7, 2026.
+
+
+
+
+Interest of Amicus Curiae
+Amicus Curiae Praxis Foundry submits this model brief to offer a constitutional-structure and civic-maintenance perspective on the emergency posture before the Court. The brief focuses on how courts should preserve continuity among state authority, federal drug regulation, patient access, and institutional reliance when emergency relief threatens to reorganize a national medication-access system before merits review is complete.
+This case concerns the relationship between state authority, federal drug regulation, and patient access to a medication regulated by the Food and Drug Administration. Applicants Danco Laboratories, LLC, and GenBioPro, Inc., appear before the Court as manufacturers whose products, regulatory obligations, and distribution channels are directly affected by the Fifth Circuit’s order. Those interests are concrete and substantial.
+But the case should not be understood as a dispute about manufacturers alone. The regulatory pathway at issue is also the pathway through which patients, physicians, pharmacies, and other medical actors may obtain, provide, or rely on access to time-sensitive care. When a court order alters the national conditions under which mifepristone may be prescribed or dispensed, the effect travels beyond the regulated companies. It reaches the patients and clinicians who rely on the federal medication framework in practice.
+Amicus does not ask the Court to decide every question concerning abortion law, medication abortion, preemption, FDA authority, or state police power. Nor does amicus deny that States possess real authority to regulate medical practice, criminal law, and abortion within constitutional limits. The point is narrower. State authority remains real inside the federal system, but it does not follow that one State may use federal litigation to impose a nationwide disruption on a medication-access framework before the legality of that disruption has been finally resolved.
+Federalism protects both sides of that line. It preserves the reality of state authority, but it also preserves the national constitutional order in which state authority exists. A State may not become the whole system merely because it has a serious policy objection within its own borders.
+That principle has practical consequences. In a functioning constitutional order, persons, claims, records, remedies, and medical needs must remain intelligible as they move through public systems. A patient should not become legally unreachable merely because her care passes through state law, federal regulation, medical judgment, pharmacy practice, and distribution infrastructure at the same time. A federal system must be able to hold those layers together without letting one layer erase the others.
+This brief therefore offers a simple federalism principle: state authority is strongest when it governs within its lawful sphere; it becomes constitutionally suspect, at minimum for emergency-relief purposes, when it is used to project one State’s policy into a national access regime and thereby burdens persons, providers, manufacturers, and federal regulators outside that ordinary sphere.
+That principle is offered as constitutional-structure analysis, not as a substitute for standing, preemption, administrative-law, remedial, or emergency-relief doctrine.
+Summary of Argument
+The Court should continue to preserve the status quo while this litigation proceeds.
+The emergency applications arise from a Fifth Circuit order that, if allowed to take effect, would alter the national conditions under which mifepristone may be prescribed and dispensed. That is not a minor interim adjustment. It is a practical reorganization of a federally regulated medication-access system.
+Emergency relief should not permit one State’s challenge to become the operative national rule before merits review is complete. The ordinary emergency-relief considerations point in the same direction: the applicants face direct regulatory and distribution harms; patients and providers face disruption to time-sensitive care; and the public interest favors stability in a national FDA-regulated medication framework while the legal questions are reviewed in an orderly way.
+Louisiana’s interests should be addressed seriously. A State has a legitimate interest in enforcing its laws within constitutional limits. It may regulate medical practice and abortion within its lawful sphere. It may object to federal rules that, in its view, frustrate state law.
+But those interests do not answer the federalism problem presented here. Louisiana is one State inside a national constitutional system. Its authority is real, but not unlimited. When a State’s litigation position would restrict access through a national FDA framework, affect manufacturers and patients beyond ordinary state enforcement, and unsettle reliance interests across the country, the dispute is no longer only about Louisiana’s internal law. It becomes a question about how far one State may project its policy through federal regulatory architecture.
+The Court need not erase state authority to reject that projection. It need only hold the line between lawful state regulation and nationwide disruption while merits review proceeds.
+This brief calls the latter danger “boundary capture”: the use of a legitimate jurisdictional boundary as a lever to control persons, actors, or systems beyond the boundary’s lawful reach. The term is not a substitute for doctrine, standing, preemption analysis, remedial limits, or the emergency-relief standard. It is a way to name the federalism problem those doctrines must manage here.
+Boundary capture matters because it changes what the constitutional system is doing. A lawful state boundary helps organize authority. An overextended boundary can instead block access, distort responsibility, and prevent the legal system from receiving and responding to the persons affected by its action. When that happens, the problem is not only who wins between state and federal power. The problem is whether the constitutional order can still process injury, reliance, medical need, and public responsibility as one legal order.
+The federal system should not require patients to lose practical access to federally regulated medical care merely because that care passes through overlapping state, federal, medical, pharmacy, and distribution systems before this Court has completed review. Nor should the emergency docket allow one State to convert its policy objection into a national medication-access blockade before this Court has resolved the merits.
+The Court should grant appropriate emergency relief.
+Argument
+I. The Court should continue preserving the status quo because the Fifth Circuit’s order would change national medication access before merits review is complete.
+The emergency posture matters.
+The question before the Court is not whether Louisiana’s policy objections are sincere. Nor is it whether States retain authority to regulate abortion and medical practice within constitutional limits. The immediate question is whether a single court of appeals order should be allowed to alter the national conditions under which mifepristone may be prescribed and dispensed before this Court has reviewed the merits.
+It should not, and the administrative stay properly prevents that disruption for now.
+The Fifth Circuit’s May 1, 2026 order would prevent mifepristone from being prescribed by telemedicine and delivered by mail if allowed to take effect. Justice Alito entered an administrative stay of that order until 5 p.m. EDT on May 11, 2026, temporarily preserving access while the Court considers the emergency applications.
+That temporary stay preserves the proper posture. It prevents a disputed interim order from becoming a nationwide operating rule before final judicial review. In a case involving a federally regulated medication, FDA-supervised safety controls, manufacturer reliance, provider reliance, pharmacy reliance, and patient access to time-sensitive care, preserving the status quo is not merely administrative convenience. It is the condition that allows orderly adjudication.
+The Fifth Circuit’s order does not operate only inside Louisiana. It acts on the federal medication framework itself. The order changes what manufacturers may rely on, what prescribers may use, what pharmacies may dispense, and what patients may receive through lawful channels. The applicants therefore do not ask this Court to create a new national rule. They ask the Court to prevent an interim appellate order from disrupting the national rule already in place while review proceeds.
+That distinction is central.
+A stay that preserves the existing federal access framework leaves the parties where they are while this Court considers the legal questions. A refusal to stay the Fifth Circuit’s order would do the opposite. It would convert one State’s challenge into immediate national disruption, even before the Court has determined whether the challenge is likely to succeed or whether the remedial posture is lawful.
+Emergency relief should account for irreparable injury, likelihood of success, the balance of equities, and the public interest. Here, those considerations converge. The applicants face direct regulatory and distribution harms. FDA’s national medication framework faces instability. Providers and pharmacies face operational uncertainty. Patients face practical disruption in access to time-sensitive care.
+Those harms cannot be treated as speculative merely because they travel through a regulatory system. Medication access is not an abstraction. It is a chain of practical reliance: FDA approval and REMS conditions, manufacturer compliance, prescriber availability, pharmacy participation, distribution channels, and patient receipt. When one link is suddenly removed by judicial order, the whole access pathway changes.
+That is why the Court should maintain the administrative stay, grant appropriate emergency relief, and preserve the existing federal medication-access framework while review proceeds.
+II. The applicants’ injuries are regulatory and business injuries, but the access channel they defend serves patients.
+Danco and GenBioPro come before the Court as manufacturers. Their standing and emergency injuries are tied to their products, their regulatory obligations, their distribution channels, and their reliance on the FDA framework governing mifepristone.
+That posture should be stated plainly. This is not a case captioned by an individual patient. It is not a Jane Doe suit. The applicants are companies.
+But that does not make the case merely commercial.
+The products and distribution channels at issue are part of a federal medication-access system used by patients and clinicians. The Fifth Circuit order affects not only the business operations of manufacturers, but also the practical pathway through which patients receive federally regulated medication. The Court therefore need not choose between recognizing the applicants’ direct injuries and recognizing the patient-facing consequences of the order. Both belong in the emergency-relief analysis, even though patients are not the named applicants.
+That dual character is common in regulated healthcare litigation. A manufacturer may challenge or defend regulatory conditions because those conditions govern its product. A pharmacy may challenge rules because they govern dispensing. A physician may challenge restrictions because they govern practice. But the regulated actor’s injury is often inseparable from the patient-access system in which that actor participates.
+That is especially true here.
+Mifepristone access depends on a structured chain: FDA regulation, manufacturer compliance, prescriber authority, pharmacy or mail distribution, and patient receipt. If a court order removes telemedicine prescribing and mail delivery from that chain, the injury does not stop at the manufacturer’s balance sheet. It travels to patients whose access depended on those lawful channels.
+That does not require the Court to decide the case as if a patient were the named applicant. It requires only that the Court avoid artificially narrowing the public interest. The public interest includes the stability of federal drug regulation. It also includes the medical continuity of the patients who rely on that regulatory system.
+Medical continuity is not a slogan. It is the ordinary condition under which lawful care remains reachable, prescribers can act on medical judgment, pharmacies and distributors can rely on governing rules, and patients are not forced to absorb institutional uncertainty as personal medical risk.
+Louisiana may argue that its own sovereign interests also belong in the public-interest analysis. That is correct as far as it goes. State interests matter. But the public interest in a federal system cannot be reduced to the interest of one State. It must account for the broader legal order: federal regulatory stability, reliance by regulated parties, the interests of other States, the practical needs of clinicians, and the patients whose care depends on lawful access pathways.
+The district court’s equitable posture matters because it treated the balance of equities and public interest as serious constraints on emergency disruption, even where Louisiana asserted substantial state interests.
+That equitable judgment should not have been displaced lightly. It reflected a real institutional fact: nationwide medication access is not something to be reorganized by interim order unless the legal necessity is clear and the equitable consequences have been fully confronted.
+Here, the consequences are substantial. The applicants are not asking the Court to prefer private commerce over state authority. They are asking the Court to preserve a federal medication framework whose disruption would affect regulated entities, providers, pharmacies, patients, and the federal government itself.
+The emergency posture therefore supports relief.
+III. Federalism protects state authority, but it does not allow one State to project its policy into a national medication-access regime.
+Louisiana’s position should be engaged at its strongest.
+Louisiana is not wrong that States retain significant authority in areas of health, safety, medical practice, criminal law, and abortion regulation. Nor is Louisiana wrong that a State may seek to enforce its own laws within constitutional limits. A federal system is not a unitary national administration. State governments are real constitutional actors with real authority.
+But federalism also has another side.
+A State is not the whole system. It acts within a constitutional order that also contains federal law, federal agencies, national markets, interstate movement, other States, regulated entities, and persons whose lives often pass through multiple jurisdictions at once. State authority is powerful because it is real, but it remains lawful because it is bounded.
+That boundedness is the federalism issue here.
+Louisiana seeks to prevent mifepristone from being prescribed by telemedicine and delivered by mail under a federal framework Louisiana challenges. The court of appeals accepted Louisiana’s theory that FDA’s approach allowed mifepristone to be prescribed and distributed in ways that allegedly frustrated Louisiana’s abortion restrictions. But the remedy Louisiana obtained did not merely regulate conduct inside Louisiana. It restricted the medication-access framework itself.
+That move changes the character of the dispute.
+If Louisiana enforces its own criminal or medical laws against conduct inside Louisiana, the issue is ordinary state enforcement subject to constitutional limits. But if Louisiana uses federal litigation to restrict a national FDA framework for everyone, the issue is no longer only what Louisiana may do inside its borders. It becomes how far one State may reach through federal regulatory architecture to control access outside its ordinary enforcement sphere.
+That is where the federalism line should be drawn for purposes of emergency relief, without finally resolving the merits.
+The Constitution does not require federal courts to treat every state objection as local simply because a State asserts it. A remedy can exceed the local character of the asserted interest. A state injury can be real without authorizing nationwide disruption. A State’s boundary can be respected without allowing that boundary to become a lever for controlling national systems.
+This brief calls that danger boundary capture.
+By boundary capture, amicus means the use of a legitimate jurisdictional boundary as a tool to control persons, actors, or systems beyond the boundary’s lawful reach. The term is not a substitute for preemption doctrine, standing doctrine, remedial limits, or emergency-relief analysis. It is a way to name the federalism problem those doctrines must manage here.
+The danger is not merely geographic overreach. It is functional distortion. The medication-access system is a pathway through which medical need is recognized, regulated medication is made available, professional judgment is exercised, and patient care is carried into practice. When one State’s boundary is used to interrupt that pathway nationally, the legal system does not merely change who regulates. It changes whether the affected persons can still be reached by the ordinary channels of lawful care.
+Louisiana may govern within its lawful sphere. But Louisiana should not become the practical regulator of national mifepristone access through an emergency order directed at FDA’s national framework before this Court has completed review. That is not state authority operating inside the federal system. It is state authority projected through the federal system.
+Federalism should not be read to permit that result.
+IV. The Court should not allow emergency relief to become a national workaround for ordinary limits on state authority.
+The emergency docket is not a license to let one State obtain, in practical effect, a nationwide policy result that it could not impose directly.
+That is the central remedial danger here. Louisiana’s asserted interest arises from its own law and its own claimed injuries. But the requested and obtained relief reaches the national medication framework. It affects manufacturers, prescribers, pharmacies, patients, and federal regulators outside Louisiana’s ordinary enforcement context.
+That mismatch matters.
+Interim relief should answer the injury before the court. It should not convert the asserted injury into a lever for broader control before merits review is complete. When a State’s asserted injury produces relief that changes national access conditions, the court must ask whether the remedy remains proportionate to the injury or whether it has begun to reorganize a public system that reaches persons and institutions outside the State’s proper sphere.
+A State may bring suit when it has standing and a cognizable legal claim. It may ask a court to remedy a legal injury. But the remedy must remain proportionate to the injury and lawful within the structure of the federal system. The fact that a State objects to federal policy does not automatically entitle that State to obtain interim relief that suspends the policy’s practical operation for the country.
+This Court has reason to be especially careful where an interim order changes access to an FDA-regulated medication nationwide. The Food and Drug Administration regulates drug approval and related access conditions at national scale. Manufacturers structure compliance around that framework. Prescribers and pharmacies rely on it. Patients encounter it not as an abstraction, but as the practical system through which medication becomes available.
+If a single State can use an emergency order to interrupt that system nationwide before final review, then state litigation becomes a way to govern beyond the State’s own boundary. That is not ordinary federalism. It is remedial overreach.
+The problem is not that Louisiana has no interest. The problem is that the relief Louisiana obtained exceeds the proper scale of that interest. Louisiana’s claimed injuries do not justify converting its policy objection into a national medication-access rule.
+Courts should be attentive to that distinction. A State’s sovereign interest may support litigation. It may support tailored relief. It may support adjudication on the merits. But it should not support an interim order that effectively rewrites national access conditions before this Court has determined whether such relief is lawful.
+The stay should therefore be granted or maintained for a simple reason: federal courts should not permit emergency relief to become a shortcut around the constitutional limits of state authority.
+V. Patient access is a public-interest concern even when the applicants are manufacturers.
+The public interest in this case cannot be reduced to the applicants’ private interests or to Louisiana’s sovereign interests.
+Both matter. But neither exhausts the public interest.
+The public interest also includes the stability of federal drug regulation, the reliability of FDA-supervised access pathways, the ability of clinicians to rely on settled medication rules, the ability of pharmacies and distributors to operate without sudden national disruption, and the ability of patients to obtain time-sensitive care through lawful channels.
+That last interest deserves direct attention.
+Patients are not the named applicants in these emergency applications. But patients are not absent from the case. They are the persons served by the medication-access pathway that the applicants participate in and the Fifth Circuit’s order disrupts.
+A court need not pretend that manufacturers and patients have identical interests. They do not. Manufacturers have regulatory, business, and compliance interests. Patients have medical, personal, bodily, and practical interests. But in a regulated healthcare system, those interests may converge around access. If the legal channel for prescribing and dispensing medication is disrupted, the patient-facing consequences are real even though the plaintiff or applicant before the Court is a regulated entity.
+That is not unusual. Healthcare litigation often reaches patients through institutional actors. Hospitals sue. Physicians sue. Pharmacies sue. Manufacturers sue. Insurers sue. States sue. Agencies defend. But behind many such disputes is a practical question: whether patients can receive the care the regulatory system otherwise permits.
+The Court should not allow party posture to obscure that reality.
+The named applicant identifies who is properly before the Court. It does not exhaust what the Court must consider when assessing public interest. In a medication-access case, the patient-facing consequence is not incidental. It is part of the system the law is regulating. If lawful access is disrupted, the patient does not experience that disruption as an abstract federalism debate. She experiences it as delay, uncertainty, risk, or loss of care.
+This case concerns mifepristone, but the structural issue is broader. If one State can obtain emergency relief that interrupts a national medication-access pathway because the medication may be used in ways the State prohibits, then federal drug regulation becomes vulnerable to state-by-state challenges producing nationwide effects before merits review is complete.
+That would place patients in an unstable position. Access would depend not only on federal approval, medical judgment, and applicable law where care is provided, but also on whether some other State can obtain emergency relief altering the national framework. That is a dangerous way to administer medication access.
+The public interest favors a different rule: preserve the federal medication framework while merits review proceeds, and do not permit one State’s objection to become immediate national disruption through interim relief.
+VI. Federalism requires preserving both state authority and constitutional continuity.
+Louisiana will likely frame this case as a defense of state sovereignty.
+That frame is incomplete.
+State sovereignty is real. It protects the ability of States to govern within their constitutional sphere. It prevents the national government from flattening every local system into federal administration. It preserves room for state law, state institutions, state judgment, and state democratic accountability.
+But state sovereignty is not isolation. It exists inside the Constitution. A State is part of the Union, not a separate constitutional whole. Its authority is therefore both real and bounded.
+That is the federalism boundary.
+When the national government exceeds its authority, federalism protects the States. When a State exceeds its proper reach, federalism protects the national constitutional order, other States, regulated parties, and persons whose lives cross jurisdictional lines.
+This case implicates the second side of that boundary. Louisiana seeks to use its own asserted sovereign injury to restrict a national FDA medication-access framework. That request does not simply preserve Louisiana’s internal law. It affects national access conditions.
+The Court should reject that expansion.
+A proper federalism analysis should ask not only whether Louisiana has an interest, but how far that interest may lawfully travel. It should ask whether the remedy remains tied to the State’s own sphere or whether it reaches outward to control a national system. It should ask whether preserving one State’s boundary would, in practice, erase the boundaries and interests of others.
+The answer here supports the applicants.
+Maintaining access under the existing federal framework does not erase Louisiana. It does not decide every merits question. It does not hold that Louisiana lacks any regulatory authority. It simply prevents Louisiana from using interim relief to project its policy across the national medication system.
+That is a modest but important constitutional line.
+Federalism should not be used as a one-way doctrine that protects state authority only when States resist federal policy, but ignores the danger when one State uses federal courts to impose broader disruption. Federalism protects structure. It protects the relation between parts and whole. It protects both the reality of state systems and the continuity of the national constitutional order. It asks whether public power, as it changes scale, still carries the affected persons through real systems as part of one constitutional body.
+That continuity is not abstract. It is the condition under which a person remains legally visible while moving through overlapping systems: state law, federal regulation, medical judgment, pharmacy practice, distribution rules, and judicial relief. If those systems cannot hold the person as one legal subject, then the federal system has not merely produced inconvenience. It has failed at the point where constitutional structure must remain answerable to the people whose care, reliance, and legal status are affected.
+That continuity matters most when persons, care, and legal authority move through multiple systems at once.
+The Court should preserve it here.
+VII. The Court can grant relief without resolving every abortion-law question.
+This Court need not decide the full constitutional status of abortion regulation to preserve the status quo and grant appropriate emergency relief here.
+The question is narrower. The Court can hold that the Fifth Circuit’s order should not take effect while review proceeds because it disrupts a national FDA-regulated medication framework, imposes substantial reliance harms, burdens patients and providers, and allows one State’s challenge to produce nationwide consequences before the merits are resolved.
+That relief would not require the Court to say that States lack authority over abortion. It would not require the Court to decide that every state restriction touching medication abortion is preempted. It would not require the Court to constitutionalize a general right to mail-order access. It would not require the Court to finally resolve every APA question in the case.
+It would require only ordinary discipline in the use of emergency relief.
+The Court can say that a disputed interim order should not restructure national medication access before final review. It can say that the balance of equities and public interest favor stability. It can say that Louisiana’s asserted state interests, even if serious, do not justify immediate nationwide disruption. It can say that the applicants have shown enough injury to preserve the status quo pending this Court’s review.
+That would be a narrow ruling. It would also be a structurally important one.
+The danger in this case is not only the immediate restriction of mifepristone access. It is the precedent of allowing one State’s challenge to become a national access rule through emergency litigation. If that move is permitted here, similar strategies may appear elsewhere. States may seek national practical control through litigation framed as local injury. Regulated systems may become unstable not because Congress changed the law, not because FDA completed a new rulemaking, and not because this Court resolved the merits, but because interim relief allowed one State to control the operating conditions for all.
+The Court should not open that path.
+It should preserve the status quo and allow the case to proceed in an orderly posture.
+Conclusion
+Applicants Danco Laboratories, LLC, and GenBioPro, Inc., ask this Court to prevent an interim appellate order from disrupting the national conditions under which mifepristone may be prescribed and dispensed.
+That request should be granted.
+Louisiana’s authority is real, but it is not unlimited. Its sovereign interests may be heard, litigated, and adjudicated. But those interests do not justify allowing one State’s challenge to operate as a national medication-access blockade before merits review is complete.
+The federal system depends on both state authority and national continuity. It depends on courts respecting the difference between lawful state regulation and remedies that project one State’s policy into national systems. It depends on preserving the stability of federal drug regulation while serious legal questions are resolved through ordinary process.
+It also depends on a more basic constitutional discipline: public systems must remain able to recognize and respond to the persons affected by them. Medication-access channels serve regulated companies, but they do not serve only regulated companies. They also carry medical judgment, pharmacy practice, patient reliance, and time-sensitive care. When those channels are disrupted by interim relief, the burden is not merely administrative. It reaches the human beings whose lawful care depends on the system remaining coherent enough to use.
+For these reasons, the Court should grant appropriate emergency relief, maintain the stay of the Fifth Circuit’s order, and preserve the existing federal medication-access framework pending further review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, title development, and clarity. All substantive arguments, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
