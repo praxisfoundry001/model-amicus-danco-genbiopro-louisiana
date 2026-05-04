@@ -39,6 +39,6 @@ Related artifacts include:
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.20028798
 
 PDF available via DOI link once published.
